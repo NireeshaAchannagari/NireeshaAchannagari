@@ -1,4 +1,4 @@
-                                          ## <U>__ Curriculum Vitae __ </U>
+## <U>__ Curriculum Vitae __ </U>
 
 #### __NireeshaAchannagari,__
 #### __Student At MITS,__
